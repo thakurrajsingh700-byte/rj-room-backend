@@ -1,0 +1,1 @@
+flask\ngroq\npython-dotenv\ngunicorn\n
